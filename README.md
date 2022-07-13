@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerome and my bot "New Kim"
-- 👀 I’m interested in automation and machine bias
+- 👀 I’m interested in automation and machine bias, groups, symmetries and topology
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on not-for-profit projects
 - 📫 How to reach me dearjungyvr@gmail.com
